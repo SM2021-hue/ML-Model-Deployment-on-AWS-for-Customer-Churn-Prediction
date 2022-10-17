@@ -7,9 +7,9 @@
 
 # Aim:  To deploy a model on AWS which predicts whether the customer is going to churn in the near future or not.
 ### Tech Stack
-  ➔ Language: Python 
-  ➔ Libraries: Flask, gunicorn 
-  ➔ Services: Flask, Docker, AWS, Gunicorn, Terraform
+  * ➔ Language: Python 
+  * ➔ Libraries: Flask, gunicorn 
+  * ➔ Services: Flask, Docker, AWS, Gunicorn, Terraform
   
 ## Project Takeaways 
 1. Understanding various services provided by AWS 
